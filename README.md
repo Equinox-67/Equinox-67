@@ -7,6 +7,7 @@
 *Building thoughtful digital experiences, scalable web applications, and products that solve real problems.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Equinox--67-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Equinox-67)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quadri_Hassan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quadri-hassan-dev)
 ![Location](https://img.shields.io/badge/Based_in-Lagos%2C_Nigeria-0A66C2?style=flat-square)
 
 </div>
@@ -103,10 +104,8 @@ I enjoy connecting with developers, designers, founders, and people turning good
 
 [![GitHub](https://img.shields.io/badge/Find_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Equinox-67)
 
-<!-- Add verified links here when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quadri-hassan-dev)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hastelbee06@gmail.com)
 
 ---
 
